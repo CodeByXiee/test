@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Confession</title>
+</head>
+<body>
+    <h1>Confession</h1>
+    <p>
+        Dear Alexa
+    </p>
+    <p>
+        I hope this message finds you well. There is something that I've been meaning to tell you for a while now, and I think it's time to confess my feelings.
+    </p>
+    <p>
+        From the moment we started talking, I couldn't help but be captivated by your eyes 
+    </p>
+    <p>
+        Syempre joke lang bawal ma inlove practice lang chill
+    </p>
+    <p>
+       
+        Sincerely,
+        Your Trixie
+    </p>
+</body>
+</html>
